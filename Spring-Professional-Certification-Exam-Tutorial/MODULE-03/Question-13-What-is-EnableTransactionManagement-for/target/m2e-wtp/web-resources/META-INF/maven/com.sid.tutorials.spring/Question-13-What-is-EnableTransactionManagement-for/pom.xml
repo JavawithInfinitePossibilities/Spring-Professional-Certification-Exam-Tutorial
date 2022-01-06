@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.spring</groupId>
+		<artifactId>MODULE-03</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Question-13-What-is-EnableTransactionManagement-for</artifactId>
+	<packaging>war</packaging>
+	<name>Question-13-What-is-EnableTransactionManagement-for</name>
+	<description>Question-13-What-is-EnableTransactionManagement-for</description>
+	<properties>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<start-class>com.sid.tutorials.spring.module03.Runner</start-class>
+		<Project.name>Question-13-What-is-EnableTransactionManagement-for</Project.name>
+	</properties>
+</project>

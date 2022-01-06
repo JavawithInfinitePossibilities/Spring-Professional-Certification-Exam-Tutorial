@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-27-What-is-the-naming-convention-for-find
+ er-methods-in-a-Repository-interface
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module03.Runner
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-08-What-is-the-JoinPoint-argument-used-fo
+ r
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module02.Runner
+Created-By: Maven Integration for Eclipse
+

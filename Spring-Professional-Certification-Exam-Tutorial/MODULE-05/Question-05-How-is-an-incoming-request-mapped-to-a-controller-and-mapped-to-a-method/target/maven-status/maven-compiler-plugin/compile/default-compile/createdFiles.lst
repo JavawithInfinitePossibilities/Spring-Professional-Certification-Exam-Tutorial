@@ -1,0 +1,6 @@
+com\sid\tutorials\spring\module05\Runner.class
+com\sid\tutorials\spring\module05\controller\ApiController.class
+com\sid\tutorials\spring\module05\dao\ArticlesDao.class
+com\sid\tutorials\spring\module05\controller\IndexController.class
+com\sid\tutorials\spring\module05\ds\Article.class
+com\sid\tutorials\spring\module05\ds\ArticleCriteria.class
