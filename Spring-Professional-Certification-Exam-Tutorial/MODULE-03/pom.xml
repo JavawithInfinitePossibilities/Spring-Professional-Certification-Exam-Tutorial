@@ -83,9 +83,6 @@
 			Question-10-How-are-you-going-to-define-a-transaction-in-Spring
 		</module>
 		<module>
-			Question-10-Is-the-JDBC-template-able-to-participate-in-an-existing-transaction
-		</module>
-		<module>
 			Question-11-Is-the-JDBC-template-able-to-participate-in-an-existing-transaction
 		</module>
 		<module>
