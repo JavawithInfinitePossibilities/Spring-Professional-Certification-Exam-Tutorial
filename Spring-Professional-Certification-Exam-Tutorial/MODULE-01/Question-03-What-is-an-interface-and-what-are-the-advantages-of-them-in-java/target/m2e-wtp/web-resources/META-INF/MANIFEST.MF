@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-03-What-is-an-interface-and-what-are-the-
- advantages-of-them-in-java
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module01.Runner
-Created-By: Maven Integration for Eclipse
-

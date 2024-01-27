@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-05-How-is-an-incoming-request-mapped-to-a
- -controller-and-mapped-to-a-method
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module05.Runner
-Created-By: Maven Integration for Eclipse
-

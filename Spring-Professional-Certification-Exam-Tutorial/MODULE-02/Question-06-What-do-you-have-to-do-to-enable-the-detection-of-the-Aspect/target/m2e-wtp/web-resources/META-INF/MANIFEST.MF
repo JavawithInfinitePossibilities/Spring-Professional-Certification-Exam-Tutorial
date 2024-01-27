@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-06-What-do-you-have-to-do-to-enable-the-d
- etection-of-the-Aspect
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module02.Runner
-Created-By: Maven Integration for Eclipse
-

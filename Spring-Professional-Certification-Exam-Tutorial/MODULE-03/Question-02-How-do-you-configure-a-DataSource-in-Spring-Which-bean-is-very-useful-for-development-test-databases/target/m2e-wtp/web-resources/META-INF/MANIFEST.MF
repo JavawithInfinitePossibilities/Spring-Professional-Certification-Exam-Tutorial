@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-02-How-do-you-configure-a-DataSource-in-S
- pring-Which-bean-is-very-useful-for-development-test-databases
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module03.Runner
-Created-By: Maven Integration for Eclipse
-

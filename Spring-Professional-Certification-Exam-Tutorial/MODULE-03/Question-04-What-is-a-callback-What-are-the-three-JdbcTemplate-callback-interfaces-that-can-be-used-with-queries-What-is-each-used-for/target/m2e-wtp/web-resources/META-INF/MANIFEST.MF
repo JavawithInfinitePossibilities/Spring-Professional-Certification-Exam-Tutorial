@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-04-What-is-a-callback-What-are-the-three-
- JdbcTemplate-callback-interfaces-that-can-be-used-with-queries-What-is-
- each-used-for
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module03.Runner
-Created-By: Maven Integration for Eclipse
-

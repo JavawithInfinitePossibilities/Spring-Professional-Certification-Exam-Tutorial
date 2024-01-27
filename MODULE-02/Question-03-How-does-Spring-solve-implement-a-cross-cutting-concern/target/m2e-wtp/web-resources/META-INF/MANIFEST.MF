@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-03-How-does-Spring-solve-implement-a-cros
+ s-cutting-concern
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module01.Runner
+Created-By: Maven Integration for Eclipse
+

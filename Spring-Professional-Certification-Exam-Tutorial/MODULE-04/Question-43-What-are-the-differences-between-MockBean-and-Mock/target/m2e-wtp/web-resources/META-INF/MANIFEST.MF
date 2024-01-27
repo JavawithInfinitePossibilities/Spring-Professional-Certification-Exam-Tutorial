@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-43-What-are-the-differences-between-MockB
- ean-and-Mock
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module04.Runner
-Created-By: Maven Integration for Eclipse
-

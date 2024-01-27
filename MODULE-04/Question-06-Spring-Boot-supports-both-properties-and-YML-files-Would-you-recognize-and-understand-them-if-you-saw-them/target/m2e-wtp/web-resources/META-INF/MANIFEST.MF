@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-06-Spring-Boot-supports-both-properties-a
+ nd-YML-files-Would-you-recognize-and-understand-them-if-you-saw-them
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module04.Runner
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-02-What-is-a-pattern-What-is-an-anti-patt
+ ern
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module01.Runner
+Created-By: Maven Integration for Eclipse
+

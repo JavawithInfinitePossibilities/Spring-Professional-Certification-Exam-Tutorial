@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Question-08-How-are-you-going-to-create-an-Applica
+ tionContext-in-an-integration-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.spring.module01.Runner
+Created-By: Maven Integration for Eclipse
+

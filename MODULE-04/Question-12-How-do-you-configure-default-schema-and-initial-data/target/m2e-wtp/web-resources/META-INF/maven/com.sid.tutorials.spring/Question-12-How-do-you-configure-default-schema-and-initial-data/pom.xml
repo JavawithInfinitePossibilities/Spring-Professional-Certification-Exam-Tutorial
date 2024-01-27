@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.spring</groupId>
+		<artifactId>MODULE-04</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Question-12-How-do-you-configure-default-schema-and-initial-data</artifactId>
+	<packaging>war</packaging>
+	<name>Question-12-How-do-you-configure-default-schema-and-initial-data</name>
+	<description>Question-12-How-do-you-configure-default-schema-and-initial-data</description>
+
+	<properties>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<start-class>com.sid.tutorials.spring.module04.Runner</start-class>
+		<Project.name>Question-12-How-do-you-configure-default-schema-and-initial-data</Project.name>
+	</properties>
+</project>

@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Question-09-What-is-the-preferred-way-to-close-an-
- application-context-Does-Spring-Boot-do-this-for-you
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.spring.module01.Runner
-Created-By: Maven Integration for Eclipse
-
